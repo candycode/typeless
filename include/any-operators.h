@@ -1,5 +1,7 @@
 #pragma once
-//#SRCHEADER#
+//Author: Ugo Varetto
+
+
 #include <string>
 #include <stdexcept>
 

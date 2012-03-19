@@ -1,4 +1,5 @@
-//#SRCHEADER#
+//Author: Ugo Varetto
+
 #define ANY_OSTREAM
 #include <vector>
 #include <boost/tuple/tuple.hpp>
@@ -41,7 +42,5 @@ int main( int, char** )
     pbase = &derived;
     Any pbaseany(  pbase );
     pbase = static_cast< Base* >( static_cast< Derived* >( pbaseany ) );
-
-    std::cout << "OK" << std::endl; //if we get here it means no exception was thrown
     return 0;
 }

@@ -1,5 +1,5 @@
 #pragma once
-//#SRCHEADER#
+//Author: Ugo Varetto
 
 #include <vector>
 #include <map>

@@ -1,5 +1,7 @@
 #pragma once
-//#SRCHEADER#
+//Author: Ugo Varetto
+
+
 #include <cassert>
 #include <boost/atomic.hpp>
 #include <boost/intrusive_ptr.hpp>

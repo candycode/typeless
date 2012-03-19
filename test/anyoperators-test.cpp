@@ -1,4 +1,5 @@
-//#SRCHEADER#
+//Author: Ugo Varetto
+
 #include <cassert>
 #include <stdexcept>
 #include <cmath>

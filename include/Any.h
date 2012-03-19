@@ -1,5 +1,5 @@
 #pragma once
-//#SRCHEADER#
+//Author: Ugo Varetto
 
 /// @file Any.h Implementation of class to hold instances of any type.
 
